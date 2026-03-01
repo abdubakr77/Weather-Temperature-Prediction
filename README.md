@@ -60,8 +60,8 @@ A machine learning project that predicts **air temperature** using a Gradient Bo
 |--------|-------|
 | R² Score | **0.694** |
 | RMSE | ~7.94 |
-| MAE | ~6.389 |
-| CV Mean R² | **0.686** (stable across 5 folds) |
+| MAE | ~6.39 |
+| CV Mean R² | **0.687** (stable across 5 folds) |
 
 
 ---
@@ -135,5 +135,6 @@ Weather-Temperature-Prediction/
 └── README.md                       # You are here
 
 ```
+
 
 
